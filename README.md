@@ -7,7 +7,7 @@
 
 Docs: [Quick Start](QUICKSTART.md) | [Recent Updates](WHATS_NEW.md) | [Contributing](CONTRIBUTING.md)
 
-> What's New: See [Recent Updates](WHATS_NEW.md) for the latest user-visible changes.
+> What's New: See [Recent Updates](WHATS_NEW.md) for the latest user-visible changes. (Sorry, we've been too busy lately, we'll be updating again in May.)
 
 `ArgusBot` is a Python supervisor plugin for Codex CLI and Claude Code CLI:
 
